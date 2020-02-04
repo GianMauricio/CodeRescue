@@ -1,0 +1,3 @@
+﻿  P1.cpp
+E:\Work\La Salle Stuff\Outputs\Term 5\GDINTAI\ProblemSets\P1\P1\P1.cpp(60,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  P1.vcxproj -> E:\Work\La Salle Stuff\Outputs\Term 5\GDINTAI\ProblemSets\P1\x64\Debug\P1.exe

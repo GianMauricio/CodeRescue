@@ -1,0 +1,3 @@
+﻿  BaseRunner.cpp
+E:\Work\La Salle Stuff\Outputs\Term 5\GDADPRG\ClassActivities\ClassActivity1\ClassActivity1\BaseRunner.cpp(167,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ClassActivity1.vcxproj -> E:\Work\La Salle Stuff\Outputs\Term 5\GDADPRG\ClassActivities\ClassActivity1\x64\Debug\ClassActivity1.exe
